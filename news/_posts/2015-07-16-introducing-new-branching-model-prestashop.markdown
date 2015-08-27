@@ -10,7 +10,7 @@ tags:
  - contributing
 ---
 
-PrestaShop has recently moved towards a [more semantic versioning scheme](http://build.prestashop.com/news/a-more-semantic-versioning-scheme/), which is impacting the way we release new version, and how we work on our GitHub repositories. If you want to contribute code, here's a full explanation on how you should do it from now on.
+PrestaShop has recently moved towards a [more semantic versioning scheme](http://build.prestashop.com/news/a-more-semantic-versioning-scheme/), which is impacting the way we release new versions, and how we work on our GitHub repositories. If you want to contribute code, here's a full explanation on how you should do it from now on.
 
 Basically, we follow the [SemVer 2.0.0 specification](http://semver.org/), which means that, as of version 1.6.1.0:
 
